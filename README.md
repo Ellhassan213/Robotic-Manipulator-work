@@ -3,7 +3,9 @@ Robotic Systems Engineering
 
 Prerequisites
 
-    Please have the compgx01_cw3 and compgx01_cw3_deps installed alongside with this directory. Those 2 repositories are crucial for this codes to function properly.
+    Please have the compgx01_cw3 and compgx01_cw3_deps installed alongside with this directory. Those 2 repositories are    crucial for this codes to function properly.
+    
+    File Locations: Ellhassan213/Robotic-Manipulator-work/scripts
 
 Question 1
 
