@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/lawalhassan/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_lab/cw2_helper/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/sr_interface/sr_hand_kinematics/hand_kinematics/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_lab/inverse_kinematics/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/sr_interface/sr_hand_kinematics/kdl_coupling/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/ros_ethercat/ros_ethercat_eml/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/ros_ethercat/ros_ethercat_hardware/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/ros_ethercat/ros_ethercat_model/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/sr_core/sr_gazebo_sim/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/sr_core/sr_hand/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/sr_core/sr_hardware_interface/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/sr_core/sr_mechanism_controllers/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/sr_core/sr_mechanism_model/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/sr_core/sr_tactile_sensors/include",
+                "/home/lawalhassan/catkin_ws/src/compgx01_cw3_deps/sr_core/sr_utilities/include",
+                "/home/lawalhassan/catkin_ws/src/youbot_package/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
